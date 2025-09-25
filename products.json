@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Floral Journal",
+        "price": 12.99,
+        "category": "Stationery",
+        "image": "https://m.media-amazon.com/images/I/71dwPfGxmSL._AC_SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vintage Teacup",
+        "price": 8.5,
+        "category": "Kitchen",
+        "image": "https://i.pinimg.com/736x/91/9c/8b/919c8b538fbd8be6658b6aed31cd3855.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Flower Lamp",
+        "price": 24.99,
+        "category": "Decor",
+        "image": "https://i.pinimg.com/736x/8c/97/bb/8c97bbf2ada0eb2ca1a7d7d667e86bc1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "flip phone",
+        "price": 15.0,
+        "category": "Accessories",
+        "image": "https://i.pinimg.com/736x/81/7d/ed/817ded55f8c938e1f0f764f2c458c0c4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pressed Flower Bookmark",
+        "price": 4.25,
+        "category": "Stationery",
+        "image": "https://i.pinimg.com/736x/25/86/08/258608d42cd222f0992336625e96e691.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Lace Gloves",
+        "price": 18.75,
+        "category": "Accessories",
+        "image": "https://m.media-amazon.com/images/I/81UUB2azFoL._AC_SX342_.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cottage Mug",
+        "price": 10.0,
+        "category": "Kitchen",
+        "image": "https://i.pinimg.com/736x/8c/35/b4/8c35b48d28fecbd9580d80bce16bbfa0.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Handmade Soap",
+        "price": 6.5,
+        "category": "Bath",
+        "image": "https://i.pinimg.com/736x/10/60/8a/10608a1e6f1041224e6da46455622156.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Knitted Blanket",
+        "price": 35.0,
+        "category": "Decor",
+        "image": "https://i.etsystatic.com/49941427/r/il/e4c024/6688670766/il_1588xN.6688670766_e60q.jpg"
+    },
+    {
+        "id": 10,
+        "name": "15 clothe Pin",
+        "price": 3.99,
+        "category": "Accessories",
+        "image": "https://i.pinimg.com/736x/0d/29/ed/0d29ede247c60c8d0c30ebbac096083c.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Straw Hat",
+        "price": 14.5,
+        "category": "Accessories",
+        "image": "https://m.media-amazon.com/images/I/61a+FbP8DwL._AC_SX425_.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Tea Set",
+        "price": 9.99,
+        "category": "Kitchen",
+        "image": "https://i.pinimg.com/736x/ec/22/2c/ec222c7ae70cf7b256b5f1ddf0076821.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Wooden Spoon Set",
+        "price": 11.25,
+        "category": "Kitchen",
+        "image": "https://i.pinimg.com/1200x/c5/42/27/c542271eff47a28618a03edf1203a946.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Earring set",
+        "price": 16.0,
+        "category": "Accessories",
+        "image": "https://m.media-amazon.com/images/I/719E-NmFNJL._AC_SY395_.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Patchwork Tote",
+        "price": 22.0,
+        "category": "Accessories",
+        "image": "https://i.pinimg.com/1200x/ee/33/46/ee3346a12ba13a18b541deb85c591326.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Candle set",
+        "price": 7.5,
+        "category": "Bath",
+        "image": "https://i.pinimg.com/736x/35/23/d3/3523d30c1e27efc2a7b42f308ba2213f.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Strawberry Slippers",
+        "price": 19.99,
+        "category": "Accessories",
+        "image": "https://i.pinimg.com/736x/08/08/20/08082049cb9e33b81fd6cbe2d6782050.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Floral Vase",
+        "price": 13.0,
+        "category": "Decor",
+        "image": "https://i.pinimg.com/736x/04/80/9f/04809f445775b05edf65772b67c139d9.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Tomato Headphones",
+        "price": 17.5,
+        "category": "Kitchen",
+        "image": "https://i.pinimg.com/1200x/b2/f9/4d/b2f94d7120f45963892f1b04319d33ff.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Apple Bowl",
+        "price": 6.75,
+        "category": "Kitchen",
+        "image": "https://i.pinimg.com/1200x/dd/fb/0f/ddfb0fbc1619cea1c50b090e2fda94db.jpg"
+    }
+]
